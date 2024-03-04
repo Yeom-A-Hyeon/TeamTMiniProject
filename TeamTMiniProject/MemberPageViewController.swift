@@ -57,7 +57,7 @@ final class MemberPageViewController: UIViewController {
                                                    memberBloodType: "B형",
                                                    memberBirthday: "0912",
                                                    memberTechnology: "React, React-native, Flutter",
-                                                   memberHopeFieldLabel: "금융",
+                                                   memberHopeFieldLabel: "소셜미디어",
                                                    backgroundColor: UIColor(red: 36/255, green: 62/255, blue: 53/255, alpha: 1))
         case "김정호":
             memberPageView.memberInfo = MemberInfo(profileImage: UIImage(resource: .characterCircleJeongho),
